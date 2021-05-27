@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Property Listing App
-- 🌱 I’m currently learning Advanced CSS
+- 🌱 I’m currently learning for Advance Javascript
 - 👯 I’m looking to collaborate on E-commerce Project
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Headless CMS
