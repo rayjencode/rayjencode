@@ -5,11 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Property Listing App
+- 🔭 Coming Soon release (SaaS) Multi-Tenant E-Commerce
 - 🌱 I’m currently learning for Advance Javascript
-- 👯 I’m looking to collaborate on E-commerce Project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Headless CMS
+- 👯 I’m looking for Seed Capital on my SaaS E-commerce
+- 💬 Ask me about SaaS Idea
 - 📫 How to reach me: rayjenscode@gmail.com || www.greatweb.dev
 - 😄 Pronouns: ...
 - ⚡ Fun fact: You only have 2 copy/paste remaining in StackOverflow
