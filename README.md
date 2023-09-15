@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Released Multi-Tenant Drag-and-Drop E-Commerce Store Builder (Upsell)
+- 🔭 My Multi-Tenant Drag-and-Drop E-Commerce Store Builder has reached 1 million users (Upsell)
 - 🌱 I’m currently learning for AWS Multi Tenancy
 - 👯 Funded by YC and Peter Theil
 - 💬 Ask me about SaaS Idea
